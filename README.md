@@ -228,8 +228,7 @@ The dashboard combines KPI cards, interactive filters, and focused visualization
 
 ### Dashboard Preview
 
-![Global Project Analysis Dashboard](Global_Project_Analysis_dashboard.png)
----
+![Global Project Analysis Dashboard](Global_Project_Analysis_dashboard.PNG)
 
 ## Dashboard Features
 
